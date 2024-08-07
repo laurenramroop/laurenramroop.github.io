@@ -1,5 +1,5 @@
-## Welcome to Lauren Ramroop's Portfolio Website for CTP!
-# Lauren Ramroop
+### Welcome to Lauren Ramroop's Portfolio Website for CTP!
+
 # Hi, I'm Lauren, an AI and Data Science enthusiast with a passion for transforming data into actionable insights. With a strong foundation in machine learning algorithms and statistical analysis, I am currently an intern at Healthfirst, where I work with the HR team to develop AI-driven models that enhance business intelligence.
 
 I am skilled in Python, SQL, and AWS Redshift, and have hands-on experience with data visualization tools like PowerBI, Google Analytics, Tableau, and Qlik Sense. My work focuses on understanding HR business processes and using AI to improve decision-making and strategy.
